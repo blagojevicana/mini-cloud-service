@@ -1,4 +1,4 @@
-# mini-cloud-service
+# mini-infrastructure-pipeline
 
 ## Overview
 This project demonstrates a **containerized Python API deployed on Kubernetes**, with **NGINX load balancing** and automated **CI/CD** using GitHub Actions. It showcases DevOps and backend skills such as Docker, Kubernetes, infrastructure automation and continuous deployment.
